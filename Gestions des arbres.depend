@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1578512275 source:e:\c++\s3\gestions des arbres\main.cpp
+	<iostream>
+	"GestArbre.h"
+
+1578516756 e:\c++\s3\gestions des arbres\gestarbre.h
+	<iostream>
+
